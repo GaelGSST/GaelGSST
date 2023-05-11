@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gaël !
 - 👀 I’m interested by video games and computer science.
 - 🌱 I’m currently learning Front-End and Back-End development to become a Full-Stack developer !
-(PS : I'm still working on my PortFolio website)
 
 <!---
 GaelGSST/GaelGSST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
